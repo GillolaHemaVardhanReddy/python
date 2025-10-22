@@ -1,0 +1,5 @@
+hey r uh
+hey r uh
+2025-10-22 15:07:24.053560 : this is my first log
+Wednesday 2025-10-22 15:08:43 : this is my first log
+2025-10-22 15:08:54 : this is my first log
